@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c999f927-ea29-463e-9bd4-c65788aed0a9" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/Riskware_apk_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/decision_tree_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/drebin-215-dataset-5560malware-9476-benign.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/drebin_classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/drebin_features.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_of_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_of_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_of_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_of_e.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/feature_out_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/random_forest_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/svm_rbf_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/train_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/val.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/总结特征.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/特征提取草稿1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/特征提取草稿2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/草稿.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/草稿2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/草稿3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,25 +71,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.fan.executor": "Run",
-    "Python.feature_out_final.executor": "Run",
-    "Python.train_final.executor": "Run",
-    "Python.总结特征.executor": "Run",
-    "Python.特征提取草稿1.executor": "Run",
-    "Python.特征提取草稿2.executor": "Run",
-    "Python.特征输出.executor": "Run",
-    "Python.草稿.executor": "Run",
-    "Python.草稿2.executor": "Run",
-    "Python.草稿3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/pythonproject1/apkpro/.venv/Scripts",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.fan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feature_out_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.总结特征.executor&quot;: &quot;Run&quot;,
+    &quot;Python.特征提取草稿1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.特征提取草稿2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.特征输出.executor&quot;: &quot;Run&quot;,
+    &quot;Python.草稿.executor&quot;: &quot;Run&quot;,
+    &quot;Python.草稿2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.草稿3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/pythonproject1/apkpro/.venv/Scripts&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pythonproject1\apkpro\.venv\Scripts" />
